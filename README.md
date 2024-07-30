@@ -1,6 +1,15 @@
 # my-project
 
-Node-modules have **not** been uploaded due to storage issues. IGNORE BELOW:
+Node-modules have **not** been uploaded due to storage issues. IGNORE BELOW.
+
+##.##
+
+##.##
+
+##.##
+
+
+
 
 
 ## Project setup
