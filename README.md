@@ -1,5 +1,25 @@
 # nuxt-vuetify-ssg
 
+IGNORE BELOW. 
+
+##.## 
+
+##.## 
+
+##.## 
+
+##.## 
+
+##.## 
+
+##.## 
+
+##.## 
+
+##.## 
+
+##.## 
+
 ## Build Setup
 
 ```bash
